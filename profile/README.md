@@ -21,18 +21,18 @@
   ## Repositories
 
   **Lab guide**
-  - [`showroom`](../../showroom) — A Static workshop guide itself 
+  - [`showroom`](../showroom) — A Static workshop guide itself 
 
   **What attendees build and run**
-  - [`globex-store-mcp`](../../globex-store-mcp) — starting point for the MCP server built in Module 1
-  - [`globex-complaint-agent`](../../globex-complaint-agent) — the complaints agent extended in Module 2
-  - [`globex-complaint-agent-helm`](../../globex-complaint-agent-helm) — its Helm chart
-  - [`mcp-workshop-chatbot`](../../mcp-workshop-chatbot) — Angular front end used to drive the agent
-  - [`globex-complaints`](../../globex-complaints) — a greenfield MCP server over the complaints database
-  - [`globex-complaints-orchestrate`](../../globex-complaints-orchestrate) — watsonx Orchestrate workspace for Module 5
+  - [`globex-store-mcp`](https://github.com/mcp-developers-workshop/globex-store-mcp) — starting point for the MCP server built in Module 1
+  - [`globex-complaint-agent`](https://github.com/mcp-developers-workshop/globex-complaint-agent) — the complaints agent extended in Module 2
+  - [`globex-complaint-agent-helm`](https://github.com/mcp-developers-workshop/globex-complaint-agent-helm) — its Helm chart
+  - [`mcp-workshop-chatbot`](https://github.com/mcp-developers-workshop/mcp-workshop-chatbot) — Angular front end used to drive the agent
+  - [`globex-complaints`](https://github.com/mcp-developers-workshop/globex-complaints) — a greenfield MCP server over the complaints database
+  - [`globex-complaints-orchestrate`](https://github.com/mcp-developers-workshop/globex-complaints-orchestrate) — watsonx Orchestrate workspace for Module 5
 
   **Environment**
-  - [`install-helm`](../../install-helm) — Helm charts for every component of the workshop cluster
-  - [`install-ansible`](../../install-ansible) — provisioning automation
+  - [`install-helm`](https://github.com/mcp-developers-workshop/install-helm) — Helm charts for every component of the workshop cluster
+  - [`install-ansible`](https://github.com/mcp-developers-workshop/install-ansible) — provisioning automation
 
   These repositories are the source of truth. The GitLab instance inside a workshop cluster is seeded from them, and that is the copy attendees clone.
